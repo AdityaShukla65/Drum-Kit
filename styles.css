@@ -79,3 +79,15 @@ footer {
   margin: 10px;
   background-color: white;
 }
+button{
+  cursor: pointer;
+}
+
+.special{
+  padding:1rem 3rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  border:none;
+  border-radius:10rem;
+  margin-bottom:2rem;
+}
